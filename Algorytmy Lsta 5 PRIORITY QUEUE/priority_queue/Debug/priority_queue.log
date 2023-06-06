@@ -1,0 +1,13 @@
+﻿Build started 2016-05-10 12:42:53.
+     1>Project "d:\Moje\moje dokumenty\visual studio 2013\Projects\priority_queue\priority_queue\priority_queue.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Programy\Programowanie\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Programy\Programowanie\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\moje\moje dokumenty\visual studio 2013\Projects\priority_queue\Debug\priority_queue.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\moje\moje dokumenty\visual studio 2013\Projects\priority_queue\Debug\priority_queue.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\moje\moje dokumenty\visual studio 2013\Projects\priority_queue\Debug\priority_queue.lib" /MACHINE:X86 Debug\main.obj
+         priority_queue.vcxproj -> d:\moje\moje dokumenty\visual studio 2013\Projects\priority_queue\Debug\priority_queue.exe
+     1>Done Building Project "d:\Moje\moje dokumenty\visual studio 2013\Projects\priority_queue\priority_queue\priority_queue.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.23
